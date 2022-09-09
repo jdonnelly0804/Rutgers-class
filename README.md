@@ -1,10 +1,11 @@
-# Rutgers-class
-This is a repo for storing class work.
+# Rutgers-Class Activity 3: 
 
-## This is a header 2 (h2)
+![bnb image](images/binance.jpg)
 
-### This is a header 3 (h3)
+## The above image is of Binance's coin
+---
+### Table of Contents
+[Click here for the BNB image](https://www.facebook.com/binance/)
 
-* Bullet point
-- Bullet point
-  - Nest
+
+
